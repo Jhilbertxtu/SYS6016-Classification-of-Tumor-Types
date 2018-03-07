@@ -2,5 +2,7 @@
 
 ## Team Members
 Caitlin Dreisbach (cnd2y)
+
 Elizabeth Homan (eih2nn)
+
 Morgan Wall (mkw5ck)
