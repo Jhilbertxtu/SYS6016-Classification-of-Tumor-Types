@@ -51,27 +51,19 @@ Weinstein, J. N., Collisson, E. A., Mills, G. B., Shaw, K. M., Ozenberger, B. A.
 ## Relevent Appendix
 
 Table 1: Selected Literature Review of Data Science Methods for Tumor Classification
-Article Title & Author
-Data Science Method
-Results
-“A comprehensive genomic pan-cancer classification...”, Li et al, 2017.
-KNN classification, k was set to 5 with a majority rule
-Correctly classified on average 87.6% in test set.
-“A comprehensive genomic pan-cancer classification...”, Li et al, 2017.
-Gradient boosting-based classifier, XGBoost
-Correctly classified on average 90.2%.
-“Analysis of k-means clustering approach on the breast cancer…”, Dubey et al., 2016.
-K-means algorithm 
-92 % average positive prediction accuracy
-“Support vector machine classification and validation of cancer tissue…”
-SVM with Leave-One-Out cross validation
-95.8 % average positive prediction accuracy
+Article Title & Author | Data Science Method | Results
+
+“A comprehensive genomic pan-cancer classification...”, Li et al, 2017. | KNN classification, k was set to 5 with a majority rule | Correctly classified on average 87.6% in test set.
+
+“A comprehensive genomic pan-cancer classification...”, Li et al, 2017. | Gradient boosting-based classifier, XGBoost | Correctly classified on average 90.2%.
+
+“Analysis of k-means clustering approach on the breast cancer…”, Dubey et al., 2016. | K-means algorithm  | 92 % average positive prediction accuracy
+
+“Support vector machine classification and validation of cancer tissue…” | SVM with Leave-One-Out cross validation | 95.8 % average positive prediction accuracy
 
 
 Table 2: Outline of Datasets
-Dataset                 Corresponding CSV file
-
-Labels                  Labels.csv
-
-Gene Expression Data    Data.csv 
+Dataset | Corresponding CSV file
+Labels | Labels.csv
+Gene Expression Data | Data.csv 
 
