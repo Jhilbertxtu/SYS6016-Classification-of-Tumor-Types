@@ -69,10 +69,9 @@ SVM with Leave-One-Out cross validation
 
 
 Table 2: Outline of Datasets
-Dataset
-Corresponding CSV file
-Labels
-Labels.csv
-Gene Expression Data 
-Data.csv 
+Dataset                 Corresponding CSV file
+
+Labels                  Labels.csv
+
+Gene Expression Data    Data.csv 
 
