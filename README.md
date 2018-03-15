@@ -57,9 +57,9 @@ Article Title & Author | Data Science Method | Results
 
 “A comprehensive genomic pan-cancer classification...”, Li et al, 2017. | Gradient boosting-based classifier, XGBoost | Correctly classified on average 90.2%.
 
-“Analysis of k-means clustering approach on the breast cancer…”, Dubey et al., 2016. | K-means algorithm  | 92 % average positive prediction accuracy
+“Analysis of k-means clustering approach on the breast cancer…”, Dubey et al., 2016. | K-means algorithm  | 92% average positive prediction accuracy
 
-“Support vector machine classification and validation of cancer tissue…” | SVM with Leave-One-Out cross validation | 95.8 % average positive prediction accuracy
+“Support vector machine classification and validation of cancer tissue…” | SVM with Leave-One-Out cross validation | 95.8% average positive prediction accuracy
 
 
 Table 2: Outline of Datasets
