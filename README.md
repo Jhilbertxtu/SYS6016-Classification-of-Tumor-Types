@@ -10,7 +10,7 @@ Morgan Wall (mkw5ck)
 
 ## Model Comparison
 
-![alt text](https://raw.githubusercontent.com/caitdreis/SYS6016-Classification-of-Tumor-Types/results.png)
+![title](https://github.com/caitdreis/SYS6016-Classification-of-Tumor-Types/results.png)
 
 Logsitic regression:
 
