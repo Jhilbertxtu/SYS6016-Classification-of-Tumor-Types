@@ -1,11 +1,11 @@
 # SYS6016-Classification-of-Tumor-Types
 
 ## Team Members
-**Caitlin Dreisbach (cnd2y)**: Naive Bayes, Background Research
+Caitlin Dreisbach (cnd2y)
 
-**Elizabeth Homan (eih2nn)**: Logisitc Regression Model, Recursive Feature Elimination, lead for final paper
+Elizabeth Homan (eih2nn)
 
-**Morgan Wall (mkw5ck)**: Expectation Maximization, Recursive Feature Elimination, lead for presentation
+Morgan Wall (mkw5ck)
 
 
 ## Model Comparison
