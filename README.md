@@ -7,6 +7,9 @@ Elizabeth Homan (eih2nn)
 
 Morgan Wall (mkw5ck)
 
+## Methods & Analysis
+
+We explored this dataset using multiple approaches. First, to establish a baseline, we used logistic regression with all genes as regressors. Next, we used recursive feature elimination to decrease the number of features/genes from over 20,000 to 100 or fewer. We then created multiple logistic regression models using smaller and smaller subsets of genes (until the accuracy of predictions began to drop). Our second major modeling approach used Expectation Maximization with the top ten ranked genes in the dataset. Our third modeling approach used Naive Bayes with both Gaussian and Bernoulli distributions. For the Naive Bayes models, maximum likelihood was used to estimate the parameters and 10-fold cross validation was used to measure accuracy.
 
 ## Model Comparison
 
