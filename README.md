@@ -10,6 +10,8 @@ Morgan Wall (mkw5ck)
 
 ## Model Comparison
 
+![alt text](https://raw.githubusercontent.com/caitdreis/SYS6016-Classification-of-Tumor-Types/results.png)
+
 Logsitic regression:
 
 Naive Bayes (Gaussian): 0.98 mean accuracy score with 10-fold cross-validation
