@@ -10,6 +10,8 @@ Morgan Wall (mkw5ck)
 
 ## Model Comparison
 
+![Results Comparison](results.png?raw=true)
+
 Logsitic regression:
 
 Naive Bayes (Gaussian): 0.98 mean accuracy score with 10-fold cross-validation
